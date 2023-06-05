@@ -1,5 +1,5 @@
 # IVP5U (New IM4U)
-插件用途(Introduction):/n
+插件用途(Introduction):<br>
 将vmd,pmx文件导入UE（5.0-5.2+），并支持vmd camera导入，而且可以使用节点动态导入(beta)
 Import vmd pmx and vmd camera to UE (5.0-5.2+) , And Support for dynamic import
 # 如何使用？(How to use ?)
