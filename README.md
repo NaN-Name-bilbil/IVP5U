@@ -10,6 +10,9 @@ Import vmd pmx and vmd camera to UE (5.0-5.2+) , And Support for dynamic import<
 
 Download the corresponding version from the right announcement board (release), unzip it and place it in the Plugins folder under your own project (if not, create it). Once you enter the project, you can use it
 
-
+#Reference
+<ul dir="auto">
+<li><a href="https://github.com/bm9/IM4U">https://github.com/bm9/IM4U</a></li>
+</ul>
  
  
